@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello, I'm Ali
 
-<!--
-**Ali2003kadhim/Ali2003kadhim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Full-Stack Developer with a strong passion for backend and frontend technologies.
 
-Here are some ideas to get you started:
+🧠 Currently focused on:
+- C# & Razor Pages
+- HTML, CSS, JavaScript
+- Python & Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I love building clean, performant, and user-friendly applications.
+
+🛠️ Tools & Tech:
+- Visual Studio, Git, GitHub
+- SQL Server, Entity Framework
+- Django, Bootstrap
+
+📫 Let's connect and grow together!
