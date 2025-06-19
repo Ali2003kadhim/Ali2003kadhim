@@ -2,7 +2,7 @@
 
 🎯 Aspiring Full-Stack Developer with a strong passion for backend and frontend technologies.
 
-🧠 Currently focused on:
+🧠 Proficient in:
 - C# & Razor Pages
 - HTML, CSS, JavaScript
 - Python & Java
@@ -14,4 +14,3 @@
 - SQL Server, Entity Framework
 - Django, Bootstrap
 
-📫 Let's connect and grow together!
