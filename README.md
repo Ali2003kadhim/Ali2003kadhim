@@ -16,13 +16,17 @@
 🎮 Game Development:
 - Unreal Engine (Blueprints & C++)
 - 3D asset creation and integration
-- Experience with gameplay mechanics and level design
+- Gameplay mechanics and level design
+
+🗄️ Databases:
+- SQL Server, MySQL, SQLite
+- Experience with writing complex queries, joins, stored procedures, and database design
 
 🚀 I love building clean, performant, and user-friendly applications — from full-stack platforms to interactive games and 3D experiences.
 
 🛠️ Tools & Tech Stack:
 - Visual Studio Code, Visual Studio
-- Git, GitHub, SQL Server
+- Git & GitHub
 - Django, Bootstrap, Entity Framework
 
 📐 I believe great products combine strong logic with strong visuals. Let's build things that look good *and* feel right.
